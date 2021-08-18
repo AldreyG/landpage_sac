@@ -1,6 +1,6 @@
 import React from "react";
-import Hint from "../../components/hint";
-import CSMain from "../../components/csmain";
+import Hint from "../../components/csCard";
+import CSMain from "../../components/csMain";
 
 function Sac() {
   return (
@@ -18,7 +18,7 @@ function Sac() {
       <div className="container">
         <div className="container mt-4">
           <div className="row mt-4 text-center">
-            <h4>Como podemos te ajudar?</h4>
+            <h4>Olá, como podemos te ajudar?</h4>
           </div>
         </div>
 
