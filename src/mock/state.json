@@ -1,0 +1,33 @@
+[
+  {
+    "estado": [
+      { "estadoId": 1, "estadoValue": "AC" },
+      { "estadoId": 2, "estadoValue": "AL" },
+      { "estadoId": 3, "estadoValue": "AP" },
+      { "estadoId": 4, "estadoValue": "AM" },
+      { "estadoId": 5, "estadoValue": "BA" },
+      { "estadoId": 6, "estadoValue": "CE" },
+      { "estadoId": 7, "estadoValue": "ES" },
+      { "estadoId": 8, "estadoValue": "GO" },
+      { "estadoId": 9, "estadoValue": "MA" },
+      { "estadoId": 10, "estadoValue": "MT" },
+      { "estadoId": 11, "estadoValue": "MG" },
+      { "estadoId": 12, "estadoValue": "MG" },
+      { "estadoId": 13, "estadoValue": "PA" },
+      { "estadoId": 14, "estadoValue": "PB" },
+      { "estadoId": 15, "estadoValue": "PR" },
+      { "estadoId": 16, "estadoValue": "PE" },
+      { "estadoId": 17, "estadoValue": "PI" },
+      { "estadoId": 18, "estadoValue": "RJ" },
+      { "estadoId": 19, "estadoValue": "RN" },
+      { "estadoId": 20, "estadoValue": "RS" },
+      { "estadoId": 21, "estadoValue": "RO" },
+      { "estadoId": 22, "estadoValue": "RR" },
+      { "estadoId": 23, "estadoValue": "SC" },
+      { "estadoId": 24, "estadoValue": "SP" },
+      { "estadoId": 25, "estadoValue": "SE" },
+      { "estadoId": 26, "estadoValue": "TO" },
+      { "estadoId": 27, "estadoValue": "DF" }
+    ]
+  }
+]

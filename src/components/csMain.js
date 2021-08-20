@@ -1,6 +1,12 @@
 import React from "react";
+import { useHistory } from "react-router-dom";
 
 function CSMain() {
+  const history = useHistory();
+  const goWhatsPage = () => {
+    history.push("/whats");
+  };
+
   return (
     <>
       <div className="row">
@@ -36,7 +42,7 @@ function CSMain() {
               <button
                 className="btn btn-success w-50"
                 style={{ backgroundColor: "#008000" }}
-                onClick={() => {}}
+                onClick={goWhatsPage}
               >
                 É só clicar aqui
               </button>

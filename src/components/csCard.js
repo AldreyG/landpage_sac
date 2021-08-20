@@ -32,9 +32,9 @@ function Hint() {
                 </h5>
 
                 <p className="card-text">
-                  Para mais informações sobre cadastro{" "}
-                  <a href="/#" className="card-link">
-                    <br />
+                  Para compras online ou em nosso clube
+                  <br /> de fidelidade{" "}
+                  <a href="/cadastro" className="card-link link-success">
                     clique aqui
                   </a>
                 </p>
@@ -62,7 +62,7 @@ function Hint() {
                 </h5>
                 <p className="card-text">
                   Para mais informações sobre pedidos{" "}
-                  <a href="/#" className="card-link">
+                  <a href="/#" className="card-link link-success">
                     clique aqui
                   </a>
                 </p>
@@ -90,7 +90,7 @@ function Hint() {
                 </h5>
                 <p className="card-text">
                   Para maiores informações sobre lojas{" "}
-                  <a href="/#" className="card-link">
+                  <a href="/#" className="card-link link-success">
                     clique aqui
                   </a>
                 </p>
@@ -118,7 +118,7 @@ function Hint() {
                 </h5>
                 <p className="card-text">
                   Para informações sobre devolução e reembolso{" "}
-                  <a href="/#" className="card-link">
+                  <a href="/#" className="card-link link-success">
                     clique aqui
                   </a>
                 </p>
@@ -146,7 +146,7 @@ function Hint() {
                 </h5>
                 <p className="card-text">
                   Para informações sobre formas de pagamento{" "}
-                  <a href="/#" className="card-link">
+                  <a href="/#" className="card-link link-success">
                     clique aqui
                   </a>
                 </p>
@@ -175,7 +175,7 @@ function Hint() {
                 <div>
                   <p className="card-text">
                     Para informações sobre clube de fidelidade{" "}
-                    <a href="/#" className="card-link">
+                    <a href="/#" className="card-link link-success">
                       clique aqui
                     </a>
                   </p>

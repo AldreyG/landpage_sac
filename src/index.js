@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import Sac from "./pages/sac";
+import Routers from "./Route";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Sac />
+    <Routers />
   </React.StrictMode>,
   document.getElementById("root")
 );

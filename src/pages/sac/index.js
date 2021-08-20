@@ -1,6 +1,7 @@
 import React from "react";
 import Hint from "../../components/csCard";
 import CSMain from "../../components/csMain";
+import Footer from "../../components/footer";
 
 function Sac() {
   return (
@@ -9,9 +10,9 @@ function Sac() {
         <div className="row">
           <header
             className="d-flex justify-content-center aling-items-center"
-            style={{ backgroundColor: "#228B22" }}
+            style={{ backgroundColor: "#228B22", height: 60 }}
           >
-            <h1 className="text-white"> Atendimento ao cliente</h1>
+            <h2 className="text-white p-2"> Atendimento ao cliente</h2>
           </header>
         </div>
       </div>
@@ -29,15 +30,8 @@ function Sac() {
           <CSMain />
         </div>
       </div>
-      <div className="container-fluid">
-        <div className="row">
-          <footer
-            className="d-flex justify-content-center aling-items-center mt-5"
-            style={{ height: 60, backgroundColor: "#228B22" }}
-          >
-            <p className="text-white m-0 p-3"> Tela SAC by Aldrey</p>
-          </footer>
-        </div>
+      <div className="d-fixed">
+        <Footer />
       </div>
     </>
   );
